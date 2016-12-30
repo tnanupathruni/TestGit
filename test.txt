@@ -1,1 +1,2 @@
 This is the git local text file to test the functioning of git hub locally.
+I have learnt something today. however it took me quite some time to initiate my preparation out of all these things...!
